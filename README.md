@@ -19,5 +19,4 @@
 3. python main.py
 
 ( Я бы сделал через exe, но оно много весит )
-
-Автор: marjaway
+Также если у вас есть идея, что можно добавить, то -> tg: marjaway or discord: marjaway
